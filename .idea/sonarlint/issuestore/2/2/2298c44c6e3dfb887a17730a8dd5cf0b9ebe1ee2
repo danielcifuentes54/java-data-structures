@@ -1,0 +1,14 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(«Ïô¬ÿÿÿÿÿ
+E
+java:S1197"*Move the array designators [] to the type.(Ž‚ñÒþÿÿÿÿ
+N	java:S106""9Replace this use of System.out or System.err by a logger.(×Æáî
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(ðæÆÿúÿÿÿÿ
+<
+java:S1659I"!Declare "max" on a separate line.(Éž´ÿÿÿÿÿ
+N	java:S106;"9Replace this use of System.out or System.err by a logger.(’Ðçù
+N	java:S106F"9Replace this use of System.out or System.err by a logger.(Øêþ®
+N	java:S106O"9Replace this use of System.out or System.err by a logger.(‰… ®
+S	java:S106P"9Replace this use of System.out or System.err by a logger.(Ø—½”ùÿÿÿÿ
+N	java:S106W"9Replace this use of System.out or System.err by a logger.(’Ðçù
+N	java:S106]"9Replace this use of System.out or System.err by a logger.(Øêþ®

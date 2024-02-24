@@ -1,0 +1,7 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.( ±à¤ÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(²¯õË
+t
+java:S1210+"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(îüŠûÿÿÿÿ
+G
+java:S1128"1Remove this unused import 'java.util.Comparator'.(î¹ó¹

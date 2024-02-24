@@ -1,0 +1,18 @@
+
+^
+java:S1854"CRemove this useless assignment to local variable "colorsImmutable".(Äöùšşÿÿÿÿ
+W
+java:S1854"ARemove this useless assignment to local variable "colorsMutable".(àÄ”‰
+O
+java:S1481"4Remove this unused "colorsImmutable" local variable.(Äöùšşÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(ÄœÉ‡úÿÿÿÿ
+H
+java:S1481"2Remove this unused "colorsMutable" local variable.(àÄ”‰
+V	java:S125"<This block of commented-out lines of code should be removed.(Ú¢ÿ‘ùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ı¬›‰
+S	java:S106"9Replace this use of System.out or System.err by a logger.(§ÂŒ¥şÿÿÿÿ
+N	java:S106!"9Replace this use of System.out or System.err by a logger.(¡Öìâ
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(È™¾·ıÿÿÿÿ
+S	java:S106("9Replace this use of System.out or System.err by a logger.(Şàš¬øÿÿÿÿ
+H
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ

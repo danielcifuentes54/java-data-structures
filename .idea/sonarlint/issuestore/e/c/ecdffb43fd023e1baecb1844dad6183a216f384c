@@ -1,0 +1,16 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(µˆœÑ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(÷ ì²
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¶Ö¨‘
+S	java:S106"9Replace this use of System.out or System.err by a logger.(æÒÙµúÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(çÁ×ú
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‰àÆ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(å‚É¶úÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÀÓÔ¿ûÿÿÿÿ
+G
+java:S1602",Remove useless curly braces around statement(¹“°ıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ø±°Çşÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ó¶ûÌ
+N	java:S106""9Replace this use of System.out or System.err by a logger.(ŞÒ©Ø
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8¤ºõ–Ü1

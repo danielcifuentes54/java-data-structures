@@ -1,0 +1,15 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ôÔß¨
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ñ¿Í¯
+N	java:S106"9Replace this use of System.out or System.err by a logger.(û±ë
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ñ¿Í¯
+S	java:S106"9Replace this use of System.out or System.err by a logger.(§Ïìêùÿÿÿÿ
+S	java:S106)"9Replace this use of System.out or System.err by a logger.(®‚ñ¬üÿÿÿÿ
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(‡Úµ÷øÿÿÿÿ
+S	java:S106+"9Replace this use of System.out or System.err by a logger.(®‚ñ¬üÿÿÿÿ
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(úüõÍÿÿÿÿÿ
+S	java:S106-"9Replace this use of System.out or System.err by a logger.(®‚ñ¬üÿÿÿÿ
+N	java:S106."9Replace this use of System.out or System.err by a logger.(€»§®
+S	java:S106/"9Replace this use of System.out or System.err by a logger.(®‚ñ¬üÿÿÿÿ
+F
+java:S1144#"+Remove this unused private "queues" method.(±¥­øùÿÿÿÿ
